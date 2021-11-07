@@ -2,7 +2,7 @@
 
 Build a web app using svelte
 
-Demo : Soon.....
+Demo : [https://sveltewebapp.pages.dev/](https://sveltewebapp.pages.dev/)
 
 Documentation : [https://www.hockeycomputindo.com/2021/11/all-in-one-web-app-svelte-free-download.html](https://www.hockeycomputindo.com/2021/11/all-in-one-web-app-svelte-free-download.html)
 
