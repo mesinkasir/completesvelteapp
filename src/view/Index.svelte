@@ -3,7 +3,7 @@
 	import { quintOut } from 'svelte/easing';
 	import { fade, draw, fly } from 'svelte/transition';
 	import { expand } from '../view//custom-transitions.js';
-	import { inner, outer } from '../view/shape.js';
+	import { inner, outer } from '../view/Shape.js';
 
 	let visible = true;
 </script>
