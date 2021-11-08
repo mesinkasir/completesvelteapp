@@ -14,25 +14,41 @@ Home Page
 
 ![complete svlete web app source code](https://1.bp.blogspot.com/-25Zw_mviaNE/YYf86uy8FvI/AAAAAAAARpo/TvnMTv7uIfgii-UvJj0Bq4E82qtwoY66wCLcBGAsYHQ/s1024/free%2Bdownload%2Bsvelte%2Bsource%2Bcode%2Bfull%2Bonline%2Bweb%2Bapp%2B%25281%2529.jpg)
 
+
+------------------------------------
+
 Dashboard Page
 
 ![complete svlete web app source code](https://1.bp.blogspot.com/-N98kP1RYcD4/YYf86iO7xvI/AAAAAAAARps/TD-evvNOadMwwd3B6tI1CxE6TNWXnNR4gCLcBGAsYHQ/s1024/free%2Bdownload%2Bsvelte%2Bsource%2Bcode%2Bfull%2Bonline%2Bweb%2Bapp%2B%25282%2529.jpg)
+
+
+------------------------------------
 
 Point of sale page
 
 ![complete svlete web app source code](https://1.bp.blogspot.com/-KGlon1VO0uM/YYf88LJ4DfI/AAAAAAAARp8/t4rjDP7c390xQbZU0ntLntpBmeuPEQ2lQCLcBGAsYHQ/s1024/free%2Bdownload%2Bsvelte%2Bsource%2Bcode%2Bfull%2Bonline%2Bweb%2Bapp%2B%25286%2529.jpg)
 
+
+------------------------------------
+
 Inventori Page
 
 ![complete svlete web app source code](https://1.bp.blogspot.com/-W9dRlZT11fA/YYf88gMufeI/AAAAAAAARqA/gE4_2TlDiksqLqyeLIdBpj-n_crfqlRFQCLcBGAsYHQ/s1024/free%2Bdownload%2Bsvelte%2Bsource%2Bcode%2Bfull%2Bonline%2Bweb%2Bapp%2B%25287%2529.jpg)
+
+
+------------------------------------
 
 Agenda Page
 
 ![complete svlete web app source code](https://1.bp.blogspot.com/-nADPiWOcnf8/YYf87jMYzaI/AAAAAAAARp0/LBBGKm4bNE0yOsXekXDXrRGoqznJ7cixwCLcBGAsYHQ/s1024/free%2Bdownload%2Bsvelte%2Bsource%2Bcode%2Bfull%2Bonline%2Bweb%2Bapp%2B%25284%2529.jpg)
 
+------------------------------------
+
 Web Template Svelte
 
 ![complete svlete web app source code](https://1.bp.blogspot.com/-8rfMig_mAqA/YYf86_TQ37I/AAAAAAAARpw/S4TPBLkwa_QMljurIY9-aEqWMC-BKAb8wCLcBGAsYHQ/s1024/free%2Bdownload%2Bsvelte%2Bsource%2Bcode%2Bfull%2Bonline%2Bweb%2Bapp%2B%25283%2529.jpg)
+
+------------------------------------
 
 Eliza Chat
 
