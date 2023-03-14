@@ -6,6 +6,8 @@ Demo : [https://sveltewebapp.pages.dev/](https://sveltewebapp.pages.dev/)
 
 Documentation : [https://www.hockeycomputindo.com/2021/11/all-in-one-web-app-svelte-free-download.html](https://www.hockeycomputindo.com/2021/11/all-in-one-web-app-svelte-free-download.html)
 
+<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
+
 ------------------------------------
 
 Features :
